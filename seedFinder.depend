@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1447427565 source:c:\seedfinder\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	"mingw.thread.h"
+
